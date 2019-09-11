@@ -19,9 +19,9 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 .clearfix:after { clear: both; }
 
 body {
-    font-family: 'Lato', Calibri, Arial, sans-serif;
+font-family: 'Vollkorn SC', serif;
     color: #fff;
-    background: #47a3da;
+    background: #6F859B;
 }
 
 a {
@@ -81,7 +81,7 @@ a:hover {
 	left: auto;
 	margin-left: 4px;
 	position: absolute;
-	color: #47a3da;
+	color: #D62936;
 	background: #fff;
 }
 
@@ -144,7 +144,7 @@ a:hover {
 }
 
 .container > header nav a:hover:after {
-	color: #47a3da;
+	color: #D62936;
 }
 
 .bp-icon-next:after {
